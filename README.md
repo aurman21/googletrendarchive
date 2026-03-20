@@ -1,4 +1,4 @@
-# Google Trend Archive: Global Real-Time Search Trends (2024–2026)
+# Google Trend Archive: A Year-Long Archive of Real-Time Web Search Trends Worldwide
 
 > **Dataset on Hugging Face:** [aurman/GoogleTrendArchive](https://huggingface.co/datasets/aurman/GoogleTrendArchive)  
 > **DOI:** [10.57967/hf/7531](https://doi.org/10.57967/hf/7531)  
