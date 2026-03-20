@@ -75,7 +75,12 @@ install.packages(c("data.table", "lubridate", "ggplot2"))
 See [`Processing_CleanedUp_Commented.R`](Processing_CleanedUp_Commented.R) for the full preprocessing pipeline used to generate `googletrendarchive_preprocessed.csv` from the raw daily files.
 
 ---
+---
+## Original Data Collection
 
+See [`trendsccraper_public.py`](trendsccraper_public.py) for the Python Playwright implementation of the original scraping code used to collect the raw daily files.
+
+---
 ## Use Cases
 
 - **Information Diffusion** — track how topics cascade across regions
